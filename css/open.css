@@ -389,9 +389,9 @@ a{
     .bg-nama p {
         margin: 20px auto;
         text-align: center;
-        font-size: 15px;
+        font-size: 13px;
         font-weight: 400;
-        width: 400px;
+        width: 300px;
         font-family: "Baloo Chettan 2", sans-serif;
         font-optical-sizing: auto;
         font-weight: 400;
@@ -470,7 +470,7 @@ a{
     
     .bg-undangan .nama{
         margin-top: 40px;
-        font-size: 60px;
+        font-size: 50px;
         font-weight: 400;
         font-family: "Parisienne", cursive;
     }
